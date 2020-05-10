@@ -426,6 +426,8 @@ const ReactBabylonJSHostConfig: HostConfig<
     return false
   },
 
+  unhideInstance: () => {},
+
   createTextInstance: (): any => {
     return undefined
   },
