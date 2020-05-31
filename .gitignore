@@ -6,6 +6,7 @@ coverage
 .idea
 compiled
 .awcache
+dist
 storybook-static
 *.lock
 debug
